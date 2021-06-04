@@ -1,4 +1,4 @@
-# WebScraping_Wrangling_DataVisualization
+# WebScraping Data Wrangling and Visualization
 Web scraping, data wrangling and visualization on photowarehouse.co.nz to analyse DSLR cameras and lens data.
 
 API requesting data wrangling and visualization on MetService NZ to analyse weather conditions in different aspects.
